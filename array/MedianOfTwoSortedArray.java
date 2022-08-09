@@ -1,5 +1,13 @@
 package array;
 
+/**
+ * 
+ * @author Manish
+ * 
+ * @link https://leetcode.com/problems/median-of-two-sorted-arrays/
+ * 
+ *
+ */
 public class MedianOfTwoSortedArray {
 	public static void main(String[] args) {
 		int[] array1 = {1,3 };
