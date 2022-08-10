@@ -2,6 +2,14 @@ package Leetcoede;
 
 import java.util.*;
 
+/**
+ * 
+ * @author Manish
+ * 
+ * {@link=https://leetcode.com/problems/valid-parentheses/}
+ *
+ */
+
 public class validparentheses {
 
 	static boolean validParentheses(String s) {
